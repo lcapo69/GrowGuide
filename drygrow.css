@@ -1,0 +1,36 @@
+html {
+    background-color: black;
+    color: orange;
+}
+
+.dry {
+    font-size: 40px;
+
+}
+
+.cure {
+    font-size: 40px;
+    position: relative;
+    margin-top: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+a {
+    color: white;
+    margin: 50px;
+    font-size: 18px;
+    
+}
+
+h2 {
+    margin: 0px;
+}
+
+#home {
+    position: relative;
+    left: 90%;
+    color: red;
+}

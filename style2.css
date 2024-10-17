@@ -1,0 +1,30 @@
+html {
+    background-color: gray;
+}
+
+.b1 {
+    color: rebeccapurple;
+    width: 600px;
+    position: relative;
+}
+
+.b2 {
+    position: absolute;
+    color: gold;
+    top: 60px;
+    left: 650px;
+    width: 730px;
+}
+
+.b3 {
+    color: blue;
+    width: 600px;
+}
+
+#home {
+    position: absolute;
+    font-size: 20px;
+    color: rgb(49, 255, 217);
+    top: 650px;
+    left: 250px;
+}
